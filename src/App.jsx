@@ -11,7 +11,6 @@ function App() {
   const [city, setCity] = useState("");
   const [loading, setLoading] = useState(false)
   const apiKey = "34096a64a7ea523a536caaea9ebcc65b";
-  console.log(weather);
   //logic
   const cityWeatherData = (lat, lon) => {
     axios
