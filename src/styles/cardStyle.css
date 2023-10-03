@@ -1,0 +1,91 @@
+.weatherContainer{
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.cityTitle {
+  background-color: rgba(113, 196, 239, 0.6);
+  padding: 0.5rem 2rem;
+  border-radius: 0.5rem;
+  font-size: 1.8rem;
+}
+.descriptionHeader {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+}
+
+.tempHeader {
+  width: 22rem;
+  padding: 0.7rem;
+  border-radius: 0.5rem;
+  background-color: rgba(113, 196, 239, 0.6);
+  border: 2px solid #6c35de;
+}
+
+.svg {
+  width: 0.7rem;
+}
+
+.temp {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.description {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mainContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.tempMinMax {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  background-color: rgba(113, 196, 239, 0.6);
+  border: 2px solid #6c35de;
+  border-radius: 0.5rem;
+  height: 2rem;
+}
+
+.stat {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.statType{
+  background-color: #d4eaf7;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 7rem;
+  border-radius: 0.5rem;
+}
+
+.contBtn {
+  display: flex;
+  justify-content: center;
+}
+
+.weatherBtn {
+  width: 6rem;
+  height: 1.5rem;
+  background-color: #71c4ef;
+  cursor: pointer;
+  border: 3px solid #EE1D52;
+  border-radius: 1rem;
+}

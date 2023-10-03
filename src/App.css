@@ -1,0 +1,106 @@
+.container {
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ gap: 3rem;
+ min-height: 100vh;
+}
+
+.d01d{
+  background-image: url("./img/clear_sky.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.d01n{
+  background-image: url("./img/clear_sky.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.d02d{
+  background-image: url("./img/few_clouds.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.d02n{
+  background-image: url("./img/few_clouds.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.d03d{
+  background-image: url("./img/scattered_clouds.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.d03n{
+  background-image: url("./img/scattered_clouds.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.d04d{
+  background-image: url("./img/broken_clouds.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.d04n{
+  background-image: url("./img/broken_clouds.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.d05d{
+  background-image: url("./img/shower_rain.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.d05n{
+  background-image: url("./img/shower_rain.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.d06d{
+  background-image: url("./img/rain.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.d06n{
+  background-image: url("./img/rain.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.d07d{
+  background-image: url("./img/thunderstorm.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.d07n{
+  background-image: url("./img/thunderstorm.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.d08d{
+  background-image: url("./img/snow.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.d08n{
+  background-image: url("./img/snow.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.d09d{
+  background-image: url("./img/mist.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.d09n{
+  background-image: url("./img/mist.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}

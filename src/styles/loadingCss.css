@@ -1,0 +1,17 @@
+
+.containerLoad{
+  width: 100%;
+  min-height: 100vh;
+  background-color: #3D5A80;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0rem;
+  z-index: 10;
+}
+
+.svgL{
+  width: 9rem;
+}
