@@ -22,7 +22,7 @@ function App() {
   };
 
   const citySearch = (city) => {
-    const urlLoc = `http://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=5&appid=${apiKey}`;
+    const urlLoc = `https://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=5&appid=${apiKey}`;
     axios
       .get(urlLoc)
       .then(({ data }) => {
